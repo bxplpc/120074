@@ -12,6 +12,7 @@
 
 ## دال بر لغوِ آن چه که غربیها نامیده‌اند مالکیت فکری و معنوی
 
+<br/>
 <p align="center"><b>PLPC-120074</b></p>
 
 <p align="center"><i>First International Edition</i></p>
