@@ -8,7 +8,10 @@
 
 ## And Introduction of the Libre-Halaal ByStar Digital Ecosystem
 
-<br/>
+##  ماهیت چند وجودی‌ها:‌
+
+## دال بر لغوِ آن چه که غربیها نامیده‌اند مالکیت فکری و معنوی
+
 <p align="center"><b>PLPC-120074</b></p>
 
 <p align="center"><i>First International Edition</i></p>
