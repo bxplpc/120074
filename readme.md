@@ -63,10 +63,10 @@
 
 AVAILABLE FORMATS  
 
--   [Prints](https://www.amazon.com/dp/1960957104):
-    -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-10-8
 -   [Prints](https://www.amazon.com/dp/1960957112):
     -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-11-5
+-   [Prints](https://www.amazon.com/dp/1960957104):
+    -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-10-8
 -   [Prints](./NOTYET):
     -- ODP -- 17.5x23.5, Black and White, Soft Cover -- p2bso -- ISBN: 978-1-960957-12-2
 -   [Prints](./NOTYET):
