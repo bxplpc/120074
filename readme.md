@@ -18,7 +18,7 @@
 <p align="center"><i>First International Edition</i></p>
 
 <br/><br/>
-<a href="./cite/PLPC-120074.bib">Order Book Prints At Amazon</a>
+<a href="https://www.amazon.com/dp/1960957112">Order Book Prints At Amazon</a>
 <br/> 
 <table>
 <tbody>
@@ -32,7 +32,7 @@
 </tr>
 <tr class="odd">
 <td>Dated:</td>
-<td>April 20, 2023</td>
+<td>June 2, 2023</td>
 </tr>
 <tr class="even">
 <td>Group:</td>
@@ -44,11 +44,11 @@
 </tr>
 <tr class="even">
 <td>Federated Publications:</td>
-<td><a href="https://github.com/bxplpc/120074">Github</a> </td>
+<td><a href="https://github.com/bxplpc/120074">Github</a> -- <a href="https://doi.org/10.5281/zenodo.8003801">DOI</a> </td>
 </tr>
 <tr class="odd">
 <td>AccessPage Revision:</td>
-<td>This AccessPage was produced on April 20, 2023 at 18:36 PDT (-0700)</td>
+<td>This AccessPage was produced on June 2, 2023 at 18:36 PDT (-0700)</td>
 </tr>
 <tr class="even">
 <td>Author(s):</td>
@@ -63,14 +63,15 @@
 
 AVAILABLE FORMATS  
 
--   [Prints](./NOTYET):
+-   [Prints](https://www.amazon.com/dp/1960957104):
     -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-10-8
--   [Prints](./NOTYET):
+-   [Prints](https://www.amazon.com/dp/1960957112)       ):
     -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-11-5
 -   [Prints](./NOTYET):
     -- ODP -- 17.5x23.5, Black and White, Soft Cover -- p2bso -- ISBN: 978-1-960957-12-2
 -   [Prints](./NOTYET):
     -- ODP -- 17.5x23.5, Color, Soft Cover -- p2cso -- ISBN: 978-1-960957-13-9
+    
 -   [PDF](./pdf/c-120074-1_04-book-8.5x11-col-emb-pub.pdf):
     -- 8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-14-6
 -   [PDF](./pdf/c-120074-1_04-book-8.5x11-col-sft-loc.pdf):
@@ -83,56 +84,82 @@ AVAILABLE FORMATS
     -- A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-15-3
 -   [PDF](./covers/c-120074-1_04-cover-a4-col-sft-loc.pdf):
     -- A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-15-3
+    
 -   [EPUB](./ebook/c-120074-1_04-eBook.epub):
     -- eBook -- h0csl -- ISBN: 978-1-960957-16-0
--   [HTML](./NOTYET):
+-   [HTML](http://mohsen.1.banan.byname.net/PLPC/120074):
     -- web -- h0csl -- ISBN: 978-1-960957-16-0
 
-SHORT DESCRIPTION  
 
-That which exists in nature in multiples, we call polyexistentials.
-Information and knowledge exist in nature in multiples. Information and
-knowledge are polyexistentials. This is in contrast with what exists in
-nature in singular which we call monoexistentials.
+SHORT DESCRIPTION
 
-In this document we analyze the topic of Intellectual Property Rights
-(IPR) from a new perspective. The topic of restriction of
-polyexistentials and Western IPR are one and the same. Yet, the concept
-of polyexistentials has not appeared in prior discussions of this topic.
-This is the very first time that the concept and the word
-“polyexistetials” are being introduced.
+In this book we analyze the topic of Intellectual Property Rights
+(IPR) from a new perspective. The topic of restriction of polyexistentials and
+Western IPR are one and the same. Yet, the concept of polyexistentials has not
+appeared in prior discussions of this topic. This is the very first time that
+the concept and the word “polyexistetials” are being introduced.
 
-Models of ownership of subjects can only be considered valid only when
-they are consistent with forms of possession and existence of subjects.
-Manner of existence and possession of polyexistentials make them
-unownable.
+Knowledge, know-how, uses of know-how, ideas and information are inherently
+non-scarce. They are polyexistentials. Unlike monoexistentials which exist in
+singular, polyexistentials naturally exist in multiples and are inherently not
+scarce. What is abundant in nature is being made artificially scarce through
+man-made ownership rules called copyright and patents. These ownership rules
+then permit a certain group which usually take the form of corporations to
+economically profit from these unnatural and economically motivated artificial
+scarcities. The model of polyexistence makes it easy to demonstrate that the
+concept of Intellectual Property is invalid. This proof is based on logic that
+is rooted in nature of existence and nature of possession and the requirement
+for ownership to be in harmony with nature of possession and existence.
 
-The concept of polyexistence makes the fraudulence of Western IPR clear
-and obvious.
+Having rejected the Western IPR regime as an erroneous model for govenrnance of
+polyexistentials, we introduce the Libre-Halaal model of governance of
+polyexistentials towards facilitating conviviality of tools. We then focus on
+the digital world and introduce the The Libre-Halaal By* (ByStar) Digital
+Ecosystem, as a moral alternative to the existing proprietary American digital
+ecosystem.
 
-Beyond rejecting Western IPR and calling for its abolishment we
-introduce the "Libre-Halaal" label for the
-[halaal](http://mohsen.1.banan.byname.net/PLPC/120039)
-manner-of-existence of polyexistentials towards proper models for their
-governance. Based on that, we then provide definitional criteria for
-[Libre-Halaal Software](http://www.halaalsoftware.org) and [Libre-Halaal
-Internet Services](http://www.libreservices.org).
+Equipped with a multidisciplinary blueprint, we offer our initial
+implementation of the ByStar digital ecosystem as a starting point towards
+concrete solutions. Todays’s American Internet is mostly a business construct.
+The current basic model of internet is rooted in the rise-of-the-middle model of
+corporations exploiting the individual. The engineering architecture of the
+proprietary internet application services is very central. Proprietary American
+corporations the likes of Google, Facebook, Amazon, Microsoft and Apple are
+positioned in the middle and monitor, control and expolit citizens of the world.
+The engineering architecture of Libre-Halaal ByStar Digital Ecosystem is
+distinctly different. The multidisciplinary blue print that we have provided can
+be the basis for de-Americanization, de-IPR-ization and redecentralization of
+internet application services.
 
-Towards a cure, as a a moral alterantive to the proprietary american
-digital ecosystem we put forward the [The Libre-Halaal ByStar Digital
-Ecosystem](http://www.by-star.net).
+We are pro-business. We are devout monoexistential bounded-corporations
+capitalists. The existing capitalist model for monoexistentials is generally
+correct, in both philosophical and economic terms. But the extension of the
+monoexistential capitalist model into the domain of polyexistentials, based on
+the Western IPR regime, is a grave mistake. To address this mistake of American
+Capitalism, we introduce the model of Global Polyexistential Capitalism as an
+Attribution Based Economy towards correcting the existing IPR rooted Ownership
+Based Economy of American Capitalism. Deep understanding of the strategy that we
+outline in this book, makes it clear that Polyexistential American Capitalism is
+very vulnerable.
 
-Equipped with our blueprint and our initial implementation of the ByStar
-digital ecosystem we then turn our attention to economics and business.
-We introduce the model of [Global Polyexistential
-Capitalism](http://www.by-star.net/PLPC/120042) and based on that bring
-forward [Neda’s Open Business Plan for
-ByStar](http://www.neda.com/strategicVision/businessPlan).
+Our ultimate goal for all of this has been to influence
+societal policies towards adoption of halaal manner of-existence of
+polyexistentials. We recognize that adoption of such societal policies in
+America is likely not possible and their adoption in the West is likely very
+difficult. Therefore, we focus on Eastern societies in general and Iran and
+China in particular. It is only through full rejection of Western IPR regime and
+its deep roots in Americanism that humanity can be rescued.
+ 
+Distinct and Different: 
 
-Our main goal for all of this has been to influence societal policies
-towards adoption of halaal manner-of-existence of polyexistentials in
-Eastern societies in general and Iran in particular. The last chapter of
-this document focuses on the model of Libre-Halaal polyexistentials as a
-replacement for the Western IPR regime.
-
-  
+What we are trying to do in this book is distinct and different from the many
+other books and articles that have been written about Intellectual Property.
+First, most books on this topic are written by Western lawyers, politicians,
+economists, journalist, sociologists and academics. We are engineers and we are
+not Western. Second, this is the very first time that the philosophical concept
+and terminology of polyexistentials is being used to analyze this topic and this
+domain. Third, our treatment of this subject is genuinely independent. We are
+not doing it for money or hype. Finally, unlike most other writings on this
+topic which amount to naggings of impotents, we are putting a blueprint for a
+cure on the table. As engineers, we are offering explicit multidisciplinary
+solutions.
