@@ -65,12 +65,13 @@ AVAILABLE FORMATS
 
 -   [Prints](https://www.amazon.com/dp/1960957104):
     -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-10-8
--   [Prints](https://www.amazon.com/dp/1960957112)       ):
+-   [Prints](https://www.amazon.com/dp/1960957112):
     -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-11-5
 -   [Prints](./NOTYET):
     -- ODP -- 17.5x23.5, Black and White, Soft Cover -- p2bso -- ISBN: 978-1-960957-12-2
 -   [Prints](./NOTYET):
     -- ODP -- 17.5x23.5, Color, Soft Cover -- p2cso -- ISBN: 978-1-960957-13-9
+    
     
 -   [PDF](./pdf/c-120074-1_04-book-8.5x11-col-emb-pub.pdf):
     -- 8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-14-6
@@ -84,6 +85,7 @@ AVAILABLE FORMATS
     -- A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-15-3
 -   [PDF](./covers/c-120074-1_04-cover-a4-col-sft-loc.pdf):
     -- A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-15-3
+    
     
 -   [EPUB](./ebook/c-120074-1_04-eBook.epub):
     -- eBook -- h0csl -- ISBN: 978-1-960957-16-0
