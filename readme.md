@@ -18,8 +18,10 @@
 <p align="center"><i>First International Edition</i></p>
 
 <br/><br/>
-<a href="https://www.amazon.com/dp/1960957112">Order Book Prints At Amazon</a>
-<br/> 
+Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957112"> US </a> -- <a href="https://www.amazon.fr/dp/1960957112"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957112"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957112"> Japan </a>
+(454 pages --- 6 x 1.03 x 9 inches)
+<br/>
+
 <table>
 <tbody>
 <tr class="odd">
