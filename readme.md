@@ -46,7 +46,11 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957112"> US 
 </tr>
 <tr class="odd">
 <td>See Also:</td>
-<td><a href="https://github.com/bxplpc/120033">PLPC-120033</a> (US Edition)</td>
+<td>
+<a href="https://github.com/bxplpc/120033">US Edition</a>
+-- <a href="https://github.com/bxplpc/120075">خلاصه به فارسی</a>
+-- <a href="https://github.com/bxplpc/120076">Letter To Maraje</a>
+</td>
 </tr>
 <tr class="even">
 <td>AccessPage Revision:</td>
