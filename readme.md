@@ -30,7 +30,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957112"> US 
 </tr>
 <tr class="even">
 <td>Version:</td>
-<td>1.042</td>
+<td>1.043</td>
 </tr>
 <tr class="odd">
 <td>Publication Date:</td>
@@ -38,7 +38,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957112"> US 
 </tr>
 <tr class="odd">
 <td>Primary URL:</td>
-<td><a href="http://mohsen.1.banan.byname.net/PLPC/120074">http://mohsen.1.banan.byname.net/PLPC/120074</a></td>
+<td><a href="http://mohsen.1.banan.byname.net/PLPC/120033">http://mohsen.1.banan.byname.net/PLPC/120074</a></td>
 </tr>
 <tr class="even">
 <td>Federated Republications:</td>
@@ -54,7 +54,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957112"> US 
 </tr>
 <tr class="even">
 <td>AccessPage Revision:</td>
-<td>This AccessPage was produced on July 14, 2023 at 18:36 PDT (-0700)</td>
+<td>This AccessPage was produced on October 1, 2023 at 18:36 PDT (-0700)</td>
 </tr>
 <tr class="odd">
 <td>Author(s):</td>
