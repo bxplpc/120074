@@ -56,11 +56,12 @@ You can think of me as always being the latest version.
 #+END_QUOTE
 
 
-That is of course non-sense.
+Such a response, of course, is nonsensical.
 
 This is an interaction that occurred on Sunday December 1, 2024 in the
 interaction box of: \url{https://thelongcontext.com/}. The large language model
-is that of Gemini Pro 1.5 whose training dates to Wednesday, November 1, 2023.
+used is that of Gemini Pro 1.5 whose training dates to Wednesday, November
+1, 2023.
 
 #+BEGIN_EXAMPLE
 Mohsen: What is the Nature of Polyexistentials?
