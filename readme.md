@@ -99,7 +99,7 @@ AVAILABLE FORMATS
     -- web -- h0csl -- ISBN: 978-1-960957-16-0
 
 
-SHORT DESCRIPTION
+SHORT DESCRIPTION  
 
 In this book we analyze the topic of Intellectual Property Rights
 (IPR) from a new perspective. The topic of restriction of polyexistentials and
@@ -116,10 +116,10 @@ then permit a certain group which usually take the form of corporations to
 economically profit from these unnatural and economically motivated artificial
 scarcities. The model of polyexistence makes it easy to demonstrate that the
 concept of Intellectual Property is invalid. This proof is based on logic that
-is rooted in nature of existence and nature of possession and the requirement
+is rooted in the nature of existence and nature of possession and the requirement
 for ownership to be in harmony with nature of possession and existence.
 
-Having rejected the Western IPR regime as an erroneous model for govenrnance of
+Having rejected the Western IPR regime as an erroneous model for governance of
 polyexistentials, we introduce the Libre-Halaal model of governance of
 polyexistentials towards facilitating conviviality of tools. We then focus on
 the digital world and introduce the The Libre-Halaal By* (ByStar) Digital
@@ -128,14 +128,14 @@ ecosystem.
 
 Equipped with a multidisciplinary blueprint, we offer our initial
 implementation of the ByStar digital ecosystem as a starting point towards
-concrete solutions. Todays’s American Internet is mostly a business construct.
-The current basic model of internet is rooted in the rise-of-the-middle model of
+concrete solutions. Today’s American Internet is mostly a business construct.
+The current basic model of the internet is rooted in the rise-of-the-middle model of
 corporations exploiting the individual. The engineering architecture of the
 proprietary internet application services is very central. Proprietary American
 corporations the likes of Google, Facebook, Amazon, Microsoft and Apple are
-positioned in the middle and monitor, control and expolit citizens of the world.
+positioned in the middle and monitor, control and exploit citizens of the world.
 The engineering architecture of Libre-Halaal ByStar Digital Ecosystem is
-distinctly different. The multidisciplinary blue print that we have provided can
+distinctly different. The multidisciplinary blueprint that we have provided can
 be the basis for de-Americanization, de-IPR-ization and redecentralization of
 internet application services.
 
@@ -163,7 +163,7 @@ Distinct and Different:
 What we are trying to do in this book is distinct and different from the many
 other books and articles that have been written about Intellectual Property.
 First, most books on this topic are written by Western lawyers, politicians,
-economists, journalist, sociologists and academics. We are engineers and we are
+economists, journalists, sociologists and academics. We are engineers and we are
 not Western. Second, this is the very first time that the philosophical concept
 and terminology of polyexistentials is being used to analyze this topic and this
 domain. Third, our treatment of this subject is genuinely independent. We are
