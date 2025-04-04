@@ -74,9 +74,11 @@ AVAILABLE FORMATS
 -   [Prints](https://www.amazon.com/dp/1960957104):
     -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-10-8
 -   [Prints](https://jangal.com/product/17503/nature-of-polyexistentials):
-    -- Jangal Publishers (Iran) -- 17.5x23.5, Black and White, Soft Cover -- p2bso -- ISBN: 978-1-960957-12-2
+    -- Jangal Publishers (Iran) -- 17.5x23.5, Black & White, Soft Cover -- p2bso -- ISBN: ۹۷۸۶۲۲۲۳۸۵۸۸۰
 
 <!---
+-   [Prints](https://jangal.com/product/17503/nature-of-polyexistentials):
+    -- Jangal Publishers (Iran) -- 17.5x23.5, Black and White, Soft Cover -- p2bso -- ISBN: 978-1-960957-12-2
 -   [Prints](./NOTYET):
     -- ODP -- 17.5x23.5, Color, Soft Cover -- p2cso -- ISBN: 978-1-960957-13-9
 --->    
