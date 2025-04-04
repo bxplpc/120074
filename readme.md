@@ -79,18 +79,18 @@ AVAILABLE FORMATS
     -- ODP -- 17.5x23.5, Color, Soft Cover -- p2cso -- ISBN: 978-1-960957-13-9
     
     
--   [PDF](./pdf/c-120074-1_05-book-8.5x11-col-emb-pub.pdf):
-    -- 8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-14-6
--   [PDF](./pdf/c-120074-1_05-book-8.5x11-col-sft-loc.pdf):
-    -- 8.5x11 -- Complete Book, No Cover Pages -- p3csl -- ISBN: 978-1-960957-14-6
--   [PDF](./covers/c-120074-1_05-cover-8.5x11-col-sft-loc.pdf):
-    -- 8.5x11 -- Soft Cover -- p3csl -- ISBN: 978-1-960957-14-6
--   [PDF](./pdf/c-120074-1_05-book-a4-col-emb-pub.pdf):
-    -- A4 -- Complete Book + Embeded Cover -- p4cel -- ISBN: 978-1-960957-15-3
--   [PDF](./pdf/c-120074-1_05-book-a4-col-sft-loc.pdf):
-    -- A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-15-3
--   [PDF](./covers/c-120074-1_05-cover-a4-col-sft-loc.pdf):
-    -- A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-15-3
+-   [PDF](./pdf/c-120074-1_05-book-8.5x11-col-emb-pub.pdf) ---  <a href="https://raw.github.com/bxplpc/120074/main/pdf/c-120074-1_05-book-8.5x11-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>:
+    8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-14-6
+-   [PDF](./pdf/c-120074-1_05-book-8.5x11-col-sft-loc.pdf)---  <a href="https://raw.github.com/bxplpc/120074/main/pdf/c-120074-1_05-book-8.5x11-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>:
+    8.5x11 -- Complete Book, No Cover Pages -- p3csl -- ISBN: 978-1-960957-14-6
+-   [PDF](./covers/c-120074-1_05-cover-8.5x11-col-sft-loc.pdf) --- <a href="https://raw.github.com/bxplpc/120074/main/covers/c-120074-1_05-cover-8.5x11-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>:
+    8.5x11 -- Soft Cover -- p3csl -- ISBN: 978-1-960957-14-6
+-   [PDF](./pdf/c-120074-1_05-book-a4-col-emb-pub.pdf)  ---  <a href="https://raw.github.com/bxplpc/120074/main/pdf/c-120074-1_05-book-a4-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>:
+    A4 -- Complete Book + Embeded Cover -- p4cel -- ISBN: 978-1-960957-15-3
+-   [PDF](./pdf/c-120074-1_05-book-a4-col-sft-loc.pdf) ---  <a href="https://raw.github.com/bxplpc/120074/main/pdf/c-120074-1_05-book-a4-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>:
+    A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-15-3
+-   [PDF](./covers/c-120074-1_05-cover-a4-col-sft-loc.pdf) --- <a href="https://raw.github.com/bxplpc/120074/main/covers/c-120074-1_05-cover-a4-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>: 
+    A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-15-3
     
     
 -   [EPUB](./ebook/c-120074-1_05-eBook.epub):
